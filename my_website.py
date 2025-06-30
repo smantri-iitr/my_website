@@ -187,7 +187,7 @@ if page == "Home":
     with col1:
         st.markdown("""
         <div class="metric-card">
-            <h3>5+</h3>
+            <h3>8+</h3>
             <p>Years Experience</p>
         </div>
         """, unsafe_allow_html=True)
